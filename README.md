@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kapil Verma
 - 👀 I’m interested in Programming & Problem Solving
-- 🌱 I’m currently learning Natural Language Processing
+- 🌱 I’m currently learning Natural Language Processing & Web Development
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me ...
 
